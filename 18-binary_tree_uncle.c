@@ -4,7 +4,7 @@
  * binary_tree_uncle - Finds uncle of a node
  *                     in a binary tree.
  * An uncle is a node's parent's sibling,
- * @node: A pointer to node to find the uncle of.
+ * @nod: A pointer to node to find the uncle of.
  *  If the parent is the right child,
  * it returns the grandparent's left child as the uncle
  * Return: If node is NULL or has no uncle, NULL.
