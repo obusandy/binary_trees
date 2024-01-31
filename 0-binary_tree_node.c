@@ -7,7 +7,7 @@
  *
  * Return: whether an error occurs - NULL.
  *         or else
- * 			- a pointer to the new node.
+ *         a pointer to the new node.
  */
 binary_tree_t *binary_tree_node(binary_tree_t *prnt, int val)
 {
